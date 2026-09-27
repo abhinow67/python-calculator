@@ -1,2 +1,0 @@
-x="abhinow"
-y="lakandri"

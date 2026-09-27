@@ -1,8 +1,0 @@
-name=input("enter the name:")
-print("welcome",name)
-age=int(input("enter your age:"))
-print("you have entered the age",age)
-nationality=input("enter the nationality:")
-print("you are not indian")
-calling=input("calling 100:")
-print("hello police someone is entered in our country")
